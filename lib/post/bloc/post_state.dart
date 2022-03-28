@@ -11,4 +11,4 @@ class PostFetchedDone extends PostState {}
 
 class PostReachedBottom extends PostState {}
 
-class PostFetchFailure extends PostState {}
+class PostFetchedFailure extends PostState {}
